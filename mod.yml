@@ -1,1 +1,87 @@
-title: THIS ArenaoriginalAuthor: danimalforlifedescription: Blame Kallatassets:#The World of Nothing Arena- name: remastered\map\eh20.map\-1.dds  method: copy  source:  - name: remastered\map\eh20.map\-1.dds- name: remastered\map\eh20.map\-11.dds  method: copy  source:  - name: remastered\map\eh20.map\-11.dds- name: remastered\map\eh20.map\-12.dds  method: copy  source:  - name: remastered\map\eh20.map\-12.dds
+title: THIS Arena
+originalAuthor: danimalforlife
+description: Blame Kallat
+
+assets:
+
+#The World of Nothing Arena
+- name: remastered\map\eh20.map\-1.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-1.dds
+- name: remastered\map\eh20.map\-11.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-11.dds
+- name: remastered\map\eh20.map\-12.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-12.dds
+
+#Final Xemnas
+- name: remastered\obj\B_EX170_LAST.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX170_LAST.mdlx\-1.dds
+- name: remastered\obj\B_EX170_LAST.mdlx\-2.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX170_LAST.mdlx\-2.dds
+- name: remastered\obj\B_EX170_LAST.mdlx\-3.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX170_LAST.mdlx\-3.dds
+- name: remastered\obj\B_EX170_LAST.mdlx\-4.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX170_LAST.mdlx\-4.dds
+- name: remastered\obj\B_EX170_LAST.mdlx\-5.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX170_LAST.mdlx\-5.dds
+- name: remastered\obj\B_EX170_LAST.mdlx\-6.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX170_LAST.mdlx\-6.dds
+
+#Data Final Xemnas
+- name: remastered\obj\B_EX170_LAST_LV99.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX170_LAST.mdlx\-1.dds
+- name: remastered\obj\B_EX170_LAST_LV99.mdlx\-2.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX170_LAST.mdlx\-2.dds
+- name: remastered\obj\B_EX170_LAST_LV99.mdlx\-3.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX170_LAST.mdlx\-3.dds
+- name: remastered\obj\B_EX170_LAST_LV99.mdlx\-4.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX170_LAST.mdlx\-4.dds
+- name: remastered\obj\B_EX170_LAST_LV99.mdlx\-5.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX170_LAST.mdlx\-5.dds
+- name: remastered\obj\B_EX170_LAST_LV99.mdlx\-6.dds
+  method: copy
+  source:
+  - name: remastered\obj\B_EX170_LAST.mdlx\-6.dds
+
+#Darkness of the Unknown Pt. 3
+- name: bgm\music062.win32.scd
+  method: copy
+  source:
+  - name: remastered\sound\BetterOffAloneMelodica.scd
+
+#Battle Quotes
+- name: remastered\obj\B_EX170_LAST.a.us\voice\battle\us\n_xemnas_last
+  method: copy
+  source:
+  - name: remastered\sound\AreYaTHISINSon
+- name: remastered\obj\B_EX170_LAST_LV99.a.us\voice\battle\us\n_xemnas_last
+  method: copy
+  source:
+  - name: remastered\sound\AreYaTHISINSon
